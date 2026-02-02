@@ -231,3 +231,6 @@ A: No. This runs 100% client-side for privacy. Just copy-paste the code into AI 
 
 **Q: Will you add feature X?**  
 A: Probably not — this tool does what I need. But the code is MIT-licensed, so fork away! The "DIY Fix" section above covers the most common enhancement requests.
+
+**Q: Why isn't drag-and-drop working?**
+A: There's a known bug with the drag-and-drop handler in the current version. For now, use the file picker button to select files manually. If you want to fix this, PRs are welcome!
