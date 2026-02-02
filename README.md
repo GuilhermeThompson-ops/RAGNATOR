@@ -1,4 +1,4 @@
-# RAGNATOR v3.2 Enterprise
+# RAGNATOR v3.2
 
 **Transform PDFs and EPUBs into RAG-ready datasets — fast, structured, and traceable.**
 
